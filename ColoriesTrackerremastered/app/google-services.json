@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635430575597",
+    "project_id": "colories-tracker-remastered",
+    "storage_bucket": "colories-tracker-remastered.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635430575597:android:a89e64a07ef7737c671be4",
+        "android_client_info": {
+          "package_name": "com.example.coloriestrackerremastered"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1JHP1Jnc67znsSOxVHzR-nUwnKwwXuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

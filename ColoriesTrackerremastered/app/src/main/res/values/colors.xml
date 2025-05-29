@@ -1,0 +1,37 @@
+<resources>
+    <color name="md_theme_primary">#457643</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#D5F0C7</color>
+    <color name="md_theme_onPrimaryContainer">#225926</color>
+    <color name="md_theme_secondary">#348F85</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#C0E1D0</color>
+    <color name="md_theme_onSecondaryContainer">#205257</color>
+    <color name="md_theme_tertiary">#C87484</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#F9D0D2</color>
+    <color name="md_theme_onTertiaryContainer">#7C3B55</color>
+    <color name="md_theme_error">#B64752</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+    <color name="md_theme_background">#F9FFF7</color>
+    <color name="md_theme_onBackground">#205257</color>
+    <color name="md_theme_surface">#F9FFF7</color>
+    <color name="md_theme_onSurface">#1B201C</color>
+    <color name="md_theme_surfaceVariant">#E7E0EB</color>
+    <color name="md_theme_onSurfaceVariant">#225926</color>
+    <color name="md_theme_outline">#6B897D</color>
+    <color name="md_theme_outlineVariant">#555B53</color>
+    <color name="md_theme_scrim">#000000</color>
+    <color name="md_theme_inverseSurface">#2E312B</color>
+    <color name="md_theme_inverseOnSurface">#EFF2E8</color>
+    <color name="md_theme_inversePrimary">#A8D293</color>
+    <color name="md_theme_surfaceDim">#D8DBD1</color>
+    <color name="md_theme_surfaceBright">#F8FAF0</color>
+    <color name="md_theme_surfaceContainerLowest">#FFFFFF</color>
+    <color name="md_theme_surfaceContainerLow">#F2F5EA</color>
+    <color name="md_theme_surfaceContainer">#ECEFE5</color>
+    <color name="md_theme_surfaceContainerHigh">#E6EEE7</color>
+    <color name="md_theme_surfaceContainerHighest">#E1E4DA</color>
+</resources>
